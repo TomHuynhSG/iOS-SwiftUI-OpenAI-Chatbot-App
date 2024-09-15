@@ -22,16 +22,6 @@
 - Responsive layout optimized for iOS devices using SwiftUI.
 
 
-
-
-
-
-
-## 🔧 Build Information
-- Xcode 15.4
-- SwiftUI Framework
-- Target Deployment iOS >=17.5
-
 ## 🔑 The API Request Information
 You can change these information accordingly if OpenAI happens to change their endpoint or model names in the future:
 - **Add your OpenAI API Key**:
@@ -56,6 +46,11 @@ You can change these information accordingly if OpenAI happens to change their e
   ]
 }
 ```
+
+## 🔧 Build Information
+- Xcode 15.4
+- SwiftUI Framework
+- Target Deployment iOS >=17.5
 
 ## 🔮 Future Improvements
 - **Message Persistence**: Implement Core Data or another local database solution to save the conversation even after the app is closed.
