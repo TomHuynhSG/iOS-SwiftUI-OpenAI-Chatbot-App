@@ -11,6 +11,8 @@
 		B47A08D92C9719E900268F52 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B47A08D82C9719E900268F52 /* ContentView.swift */; };
 		B47A08DB2C9719EA00268F52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B47A08DA2C9719EA00268F52 /* Assets.xcassets */; };
 		B47A08DE2C9719EA00268F52 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B47A08DD2C9719EA00268F52 /* Preview Assets.xcassets */; };
+		B47A08E52C9719F700268F52 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = B47A08E42C9719F700268F52 /* Message.swift */; };
+		B47A08E72C971A1100268F52 /* ChatGPTAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = B47A08E62C971A1100268F52 /* ChatGPTAPI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		B47A08D82C9719E900268F52 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B47A08DA2C9719EA00268F52 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B47A08DD2C9719EA00268F52 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B47A08E42C9719F700268F52 /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		B47A08E62C971A1100268F52 /* ChatGPTAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatGPTAPI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				B47A08D62C9719E900268F52 /* SwiftUI_OpenAI_ChatGPTApp.swift */,
 				B47A08D82C9719E900268F52 /* ContentView.swift */,
+				B47A08E62C971A1100268F52 /* ChatGPTAPI.swift */,
+				B47A08E42C9719F700268F52 /* Message.swift */,
 				B47A08DA2C9719EA00268F52 /* Assets.xcassets */,
 				B47A08DC2C9719EA00268F52 /* Preview Content */,
 			);
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B47A08E72C971A1100268F52 /* ChatGPTAPI.swift in Sources */,
+				B47A08E52C9719F700268F52 /* Message.swift in Sources */,
 				B47A08D92C9719E900268F52 /* ContentView.swift in Sources */,
 				B47A08D72C9719E900268F52 /* SwiftUI_OpenAI_ChatGPTApp.swift in Sources */,
 			);
