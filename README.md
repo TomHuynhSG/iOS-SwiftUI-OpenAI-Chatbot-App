@@ -7,8 +7,7 @@
 
 ## 📖 Description
 
-- A simple SwiftUI example app with a chatbot interface integrating OpenAI API call without any external package!
-- This is a simple chat application built using SwiftUI that integrates with OpenAI's ChatGPT API.
+- This is a simple chat application built using SwiftUI that integrates with OpenAI's ChatGPT API without any external package!
 - The app allows users to have a conversation with the OpenAI language model (ChatGPT) directly within the app.
 - The messages are stored and displayed in a scrollable view, and the app supports a continuous conversation where both the user's and the assistant's messages are remembered.
 
