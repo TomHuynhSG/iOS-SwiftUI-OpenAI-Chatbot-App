@@ -1,7 +1,7 @@
 # SwiftUI OpenAI Chatbot App
 
 <p align="center">
-  <img width="150" src="https://i.imgur.com/4aNAcED.jpeg">
+  <img width="250" src="https://i.imgur.com/4aNAcED.jpeg">
 </p>
 
 
