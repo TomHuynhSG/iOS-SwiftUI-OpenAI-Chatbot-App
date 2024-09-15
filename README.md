@@ -1,4 +1,4 @@
-# SwiftUI OpenAI Chatbot App
+# iOS SwiftUI OpenAI Chatbot App
 
 <p align="center">
   <img width="250" src="https://i.imgur.com/4aNAcED.jpeg">
